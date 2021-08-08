@@ -21,6 +21,8 @@ public class DemoApplication {
 	Alien a2=context.getBean(Alien.class);
 	a2.show();
 	
+	System.out.println("Github Practice");
+	
 	//By default, SPring uses SIngleton design pattern. SO only
 //	one object will be created
 	
